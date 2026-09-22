@@ -14,7 +14,7 @@
 <img src="" width"200px" />
 <p align="left">
 <a href="https://twitter.com/@sunandandas652" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sunandandas652" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sunandan das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunandan das" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Sunandan Das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sunandan Das" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_ sunandandas_official_45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_ sunandandas_official_45" height="30" width="40" /></a>
 </p>
 
