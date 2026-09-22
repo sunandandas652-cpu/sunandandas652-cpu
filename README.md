@@ -53,11 +53,7 @@ Www<div align="center">
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sunandandas652-cpu&show_icons=true&theme=dark" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunandandas652-cpu&layout=compact&theme=dark" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=sunandandas652-cpu&show_icons=true&theme=dark&cache_seconds=86400" />
 </p>
 
 ---
