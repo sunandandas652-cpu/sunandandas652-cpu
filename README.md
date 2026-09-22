@@ -46,8 +46,7 @@ Www<div align="center">
 - 🔹 Java Projects
 - 🔹 Python Projects
 - 🔹 C++ Projects
-- 🔹 Data Structures & Algorithms
-- 🔹 Web Development Projects
+- 🔹 Data Structures & Algorithm
 
 ---
 
@@ -69,12 +68,12 @@ Www<div align="center">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="@sunandanDas652">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+<a href="https://x.com/@sunandanDas652">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-<a href="Sunandan Das">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/Sunandan Das/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/mr_sunandan_official_45/">
