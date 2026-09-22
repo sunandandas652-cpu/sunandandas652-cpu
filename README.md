@@ -1,26 +1,92 @@
-<h1 align="center">Hi 👋, I'm Sunandan Das</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="codeing" width="400" scr="https://www.google.com/imgres?q=animation%20coding%20gif&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439%2F68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&tbnid=zhjSEq0Xd_DH7M&vet=12ahUKEwiN3-z46NKQAxUB2TgGHWk3K50QM3oECBoQAA..i&w=680&h=428&hcb=2&ved=2ahUKEwiN3-z46NKQAxUB2TgGHWk3K50QM3oECBoQAA">
+Www<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunandandas652-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="sunandandas652-cpu" /> </p>
+# 👋 Hi, I'm Sunandan Das
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunandandas652-cpu" alt="sunandandas652-cpu" /></a> </p>
+### 💻 Developer | Programmer | Tech Enthusiast
 
-<p align="left"> <a href="https://twitter.com/@sunandandas652" target="blank"><img src="https://img.shields.io/twitter/follow/@sunandandas652?logo=twitter&style=for-the-badge" alt="@sunandandas652" /></a> </p>
-
-- 📫 How to reach me **sunandandas652@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<img src="" width"200px" />
-<p align="left">
-<a href="https://twitter.com/@sunandandas652" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sunandandas652" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Sunandan Das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sunandan Das" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_ sunandandas_official_45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_ sunandandas_official_45" height="30" width="40" /></a>
+<p>
+  I love coding, building projects, and learning new technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunandandas652-cpu&show_icons=true&locale=en&layout=compact" alt="sunandandas652-cpu" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunandandas652-cpu&show_icons=true&locale=en" alt="sunandandas652-cpu" /></p>
+## 👨‍💻 About Me
+
+- 💻 Passionate about Programming & Web Development
+- 🌱 Currently improving my coding skills
+- 🚀 Building projects and learning new technologies
+- 📚 Interested in Data Structures & Algorithms
+- 🇮🇳 From India
+
+---
+
+## 🛠️ Languages & Skills
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+<img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+</p>
+
+---
+
+## 📌 Projects
+
+- 🔹 C Programming Projects
+- 🔹 Java Projects
+- 🔹 Python Projects
+- 🔹 C++ Projects
+- 🔹 Data Structures & Algorithms
+- 🔹 Web Development Projects
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sunandandas652-cpu&show_icons=true&theme=dark" />
+
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/sunandandas652-cpu">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="YOUR_TWITTER_LINK">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="YOUR_INSTAGRAM_LINK">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
