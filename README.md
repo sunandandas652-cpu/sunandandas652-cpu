@@ -1,6 +1,4 @@
-Www<div align="center">   ## 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=sunandandas652-cpu&label=Profile%20Views&color=blue&style=flat" />
+Www<div align="center">   
 
 # 👋 Hi, I'm Sunandan Das
 
@@ -41,6 +39,10 @@ Www<div align="center">   ## 👀 Profile Views
 </p>
 
 ---
+
+## 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=sunandandas652-cpu&label=Profile%20Views&color=blue&style=flat" />
 
 ## 📌 Projects
 
