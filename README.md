@@ -69,15 +69,15 @@ Www<div align="center">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_TWITTER_LINK">
+<a href="@sunandanDas652">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="Sunandan Das">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_INSTAGRAM_LINK">
+<a href="mr_sunandan_official_45">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
