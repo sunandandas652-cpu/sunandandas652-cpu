@@ -1,9 +1,8 @@
-Www<div align="center">
-
-# 👋 Hi, I'm Sunandan Das                                  ## 👀 Profile Views
+Www<div align="center">   ## 👀 Profile Views
 
 <img src="https://komarev.com/ghpvc/?username=sunandandas652-cpu&label=Profile%20Views&color=blue&style=flat" />
 
+# 👋 Hi, I'm Sunandan Das
 
 ### 💻 Developer | Programmer | Tech Enthusiast
 
